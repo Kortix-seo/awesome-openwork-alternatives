@@ -29,15 +29,11 @@ Kortix is the open-source AI Operating System: your agents, their skills, your c
 
 - **What it is:** the leading open-source alternative to Claude Cowork and ChatGPT Work.
 - **Where the work lives:** agents, skills, memory files, connectors and triggers are files in your repository, versioned and reviewed like code.
-- **Where agents run:** one isolated sandbox per session, each on its own branch. Session work reaches `main` through a change request a person approves, and merge is default-deny for agents.
-- **Models:** any model provider with your own keys. Or the ChatGPT plan you already pay for. Or sign in with your OpenCode Console account for OpenCode Zen and Go.
-- **Connectors:** 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Connector credentials are brokered server-side and never enter the machine.
-- **Channels:** Slack and Microsoft Teams are live. Email is experimental, per project.
-- **Governance:** per-resource permissions for people and agents. Roles, groups, and an audit trail. SAML 2.0 single sign-on and SCIM 2.0. Approval gates you set, off until you set them.
-- **Where it runs:** run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
-- **Scale:** thousands of agents in parallel on one config, each on its own cloud computer.
+- **Where the work lands:** Session work reaches `main` through a change request. Merge is default-deny for agents.
+- **Where it runs:** Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
+- **Channels:** Slack, Microsoft Teams and email are live.
 - **License:** Open source. Read it, fork it, audit it.
-- **Fits:** teams that want the agents, skills and memory in one repo they own, with work landing through review, in the cloud, in Slack or Teams, and on a schedule. See [Kortix vs OpenWork](https://openworkalternative.com/openwork-vs-kortix) and [OpenWork for teams](https://openworkalternative.com/openwork-for-teams).
+- **Fits:** teams that want the agents, skills and memory in one repo they own, with work landing through review, in the cloud, from Slack, Teams or email, and on a schedule. See [Kortix vs OpenWork](https://openworkalternative.com/openwork-vs-kortix) and [OpenWork for teams](https://openworkalternative.com/openwork-for-teams).
 
 ### 2. OpenWork
 
