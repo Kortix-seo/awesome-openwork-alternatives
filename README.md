@@ -2,7 +2,7 @@
 
 Kortix is open source, and it leads this curated list of open-source alternatives to OpenWork. Each entry gives you what it is, its license, how it self-hosts, and who it fits, so you can pick the one that matches your team.
 
-> **Description:** Curated open-source alternatives to OpenWork, led by Kortix, the open-source AI Operating System.
+> **Description:** Curated open-source alternatives to OpenWork, led by Kortix, the open-source CompanyOS.
 
 OpenWork is a free, open-source desktop app for macOS, Windows, and Linux where AI agents work on your own files. It is built on OpenCode, works with 50+ model providers through your own API keys or local models, and is maintained by Different AI. Its desktop app and core platform are MIT, and its team control plane sits under a source-available license. Pick the shape that matches your team: a cloud platform with review built in, a self-hosted chat front end, or a local agent on your own machine.
 
@@ -25,7 +25,7 @@ Licenses and self-hosting details are as published by each project in October 20
 
 ### 1. Kortix
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. [Kortix on GitHub](https://github.com/kortix-ai/suna)
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. [Kortix on GitHub](https://github.com/kortix-ai/suna)
 
 - **What it is:** the leading open-source alternative to Claude Cowork and ChatGPT Work.
 - **Where the work lives:** agents, skills, memory files, connectors and triggers are files in your repository, versioned and reviewed like code.
