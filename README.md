@@ -25,7 +25,7 @@ Licenses and self-hosting details are as published by each project in October 20
 
 ### 1. Kortix
 
-Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. [Kortix on GitHub](https://github.com/kortix-ai/suna)
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS)
 
 - **What it is:** the leading open-source alternative to Claude Cowork and ChatGPT Work.
 - **Where the work lives:** agents, skills, memory files, connectors and triggers are files in your repository, versioned and reviewed like code.
